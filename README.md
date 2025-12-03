@@ -1,0 +1,1 @@
+# aik-frontend-panmykola
